@@ -6,7 +6,7 @@
 
 ## 📋 Project Description
 
-**SpectraCAM** is an advanced deep learning system designed to detect camouflaged objects using multispectral image analysis. The project implements a Multi-Scale Spectral Fusion CNN with attention mechanisms that analyzes seven distinct electromagnetic spectrum bands to identify objects that are specifically designed to be hidden from visual detection.
+**MultispeCOD** is an advanced deep learning system designed to detect camouflaged objects using multispectral image analysis. The project implements a Multi-Scale Spectral Fusion CNN with attention mechanisms that analyzes seven distinct electromagnetic spectrum bands to identify objects that are specifically designed to be hidden from visual detection.
 
 ### Key Features:
 - **Multispectral Analysis**: Utilizes 7 spectral bands (VIS, Blue, Green, Red, EIR, NIR, LWIR) instead of traditional RGB
